@@ -1,6 +1,6 @@
-- 👋 Hello, I’m Maxence
-- 🤓 Currently Product Manager at UKG
-- 🚀 Trying to learn to build a Mobile app using React Native
+👋 Hello, I’m Maxence
+🤓 Currently Product Manager at UKG
+🚀 Trying to learn to build a Mobile app using React Native
 
 <!---
 mlefort3/mlefort3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
